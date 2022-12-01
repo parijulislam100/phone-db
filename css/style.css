@@ -1,0 +1,12 @@
+h1{
+    font-family: 'Nerko One', cursive !important;
+}
+.font-color{
+    color:#FF5733 !important;
+    font-size:100px !important;
+    /* font-weight: bold !important; */
+}
+.fa-mobile{
+    font-size: 50px !important;
+    color:#FFBF00;
+}
