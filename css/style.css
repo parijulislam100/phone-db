@@ -1,3 +1,8 @@
+section{
+    background-color: #212F3C  !important;
+    /* height: 100vh; */
+    min-height: 600px;
+}
 h1{
     font-family: 'Nerko One', cursive !important;
 }
